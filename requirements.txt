@@ -1,0 +1,11 @@
+streamlit==1.40.2
+streamlit-option-menu==0.3.12
+yfinance==0.2.51
+numpy==1.26.4
+requests==2.32.3
+ta==0.11.0
+plotly==5.24.1
+vaderSentiment==3.3.2
+textblob==0.18.0
+finnhub-python==2.4.20
+openpyxl==3.1.5
